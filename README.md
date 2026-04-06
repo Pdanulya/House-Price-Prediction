@@ -14,14 +14,14 @@ streamlit run app.py
 (Replace app.py with the name of your Streamlit script file.)
 
 **📂 Files in the Repository**
-app.py → Streamlit frontend
-House_Price_Prediction_Model.pkl → Trained ML model
-cleaned_data.csv → Dataset used for preprocessing and testing
-requirements.txt → Python dependencies
-README.md → Project description
+▫️app.py → Streamlit frontend
+▫️House_Price_Prediction_Model.pkl → Trained ML model
+▫️cleaned_data.csv → Dataset used for preprocessing and testing
+▫️requirements.txt → Python dependencies
+▫️README.md → Project description
 
-**⚙️ Dependencies**
-pandas
-numpy
-scikit-learn
-streamlit
+**⚙️ Libraries and Dependencies**
+▫️pandas
+▫️numpy
+▫️scikit-learn
+▫️streamlit
