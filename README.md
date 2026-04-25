@@ -25,3 +25,8 @@ streamlit run app.py
 ▫️numpy
 ▫️scikit-learn
 ▫️streamlit
+
+**Demo**
+https://github.com/user-attachments/assets/cb05f89a-837a-4b8e-bb2f-ed617c7e4542
+
+
